@@ -1,0 +1,4 @@
+Reorder the CSV rows so the cells with the same content are adjacent and
+thus can be easily merged.
+
+Uses a brute force, ad hoc algorithm.
